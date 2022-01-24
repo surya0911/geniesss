@@ -1,0 +1,29 @@
+.Blog{
+display: flex;
+    text-decoration: none;
+    justify-content: end;
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+
+}
+.Login{
+    display: flex;
+    text-decoration: none;
+    justify-content: end;
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+}
+.Register{
+    display: flex;
+    color: white;
+    text-decoration: underline ;
+    font-size: 1rem;
+    font-weight: 500;
+    justify-content: end;
+}
+.Navbarrowmain{
+    display: flex;
+    padding: 3px;
+}
